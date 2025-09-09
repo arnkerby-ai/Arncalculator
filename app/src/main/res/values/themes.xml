@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="Theme.Arncalculator" parent="Theme.AppCompat.Light.NoActionBar">
 
-    <style name="Theme.Arncalculator" parent="android:Theme.Material.Light.NoActionBar" />
+    </style>
 </resources>
